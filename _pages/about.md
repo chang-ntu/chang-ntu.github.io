@@ -66,7 +66,6 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 + Xinyu Zhou, **Chang Liu**, and Jun Zhao. Resource Allocation of Federated Learning for the Metaverse with Mobile Augmented Reality. In IEEE Transactions on Wireless Communications (***TWC***), 2023.
 
 # Selected Awards
-
 + IEEE INFOCOM 2024 Student Travel Grant, 2024
 + ACM/IEEE SEC 2022 Student Travel Grant, 2022
 + IEEE/ACM BDCAT Best Paper Award, 2022
@@ -74,19 +73,15 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 + Outstanding Student Scholarship of UESTC, 2017 & 2018
 
 # Teaching
-
 ### Teaching Assistant @ NTU
 + CE3005 Computer Networks, Fall 2022, Spring 2021
 + CZ3006 Computer Networks, Spring 2022
 + CE3005 Net Centric Computing, Spring 2022
-
 ### Residential Mentor @ NTU
 + CANdroid (Introduction to Android Development), Fall 2023, 2022, 2021, Spring 2022
 
 # Professional Service
-
 ### Organizing/Technical Committee
-
 + Session Chair, IEEE/CIC 13th International Conference on Communications in China, 2024.
 + Session Chair, IEEE 99th Vehicular Technology Conference - Spring, 2024.
 + Track Chair, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), workshop on Metaverse, 2022.
@@ -97,14 +92,11 @@ Computing Technologies for Smart Grids (SmartGridComm), 2022.
 + Technical Program Committee, International Conference on Science of Cyber Security (SciSec), 2024.
 + Technical Program Committee, IEEE International Conference on Smart City and Informatization
 (iSCI), 2022.
-
 ### Journal Reviewer
-
 + IEEE Transactions on Information Forensics and Security.
 + IEEE Transactions on Cognitive Communications and Networking. – IEEE Systems Journal.
 + IEEE Wireless Communications Letters.
 + Future Generation Computer Systems, Elsevier.
-
 ### Conference Reviewer
 + IEEE International Conference on Computer Communications (INFOCOM).
 + IEEE International Conference on Distributed Computing Systems (ICDCS).
