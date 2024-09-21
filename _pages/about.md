@@ -57,7 +57,7 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 
 + Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer. In IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), 2022. **(Best Paper Award)**
 
-+ **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao. Reliable Automatic Organ Segmenta- tion from CT Images Using Deep CNN. In IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C) (pp. 368-374), 2019.
++ **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao. Reliable Automatic Organ Segmenta- tion from CT Images Using Deep CNN. In IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2019.
 
 ### *Journal Articles*
 
