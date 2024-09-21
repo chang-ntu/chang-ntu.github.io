@@ -84,11 +84,11 @@ I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/
 
 # Professional Service
 ### Organizing/Technical Committee
-+ Session Chair, [IEEE/CIC 13th International Conference on Communications in China](https://iccc2024.ieee-iccc.org/), 2024.
-+ Session Chair, [IEEE 99th Vehicular Technology Conference - Spring](https://events.vtsociety.org/vtc2024-spring/), 2024.
-+ Technical Program Committee, [International Conference on Artificial Intelligence of Things and Systems (AIoTSys)](https://crowdos.cn/AIoTSys/2024/), 2024.
-+ Technical Program Committee, [International Conference on Science of Cyber Security (SciSec)](https://scisec.org/index.html), 2024.
-+ Technical Program Committee, [IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop](http://pimrc2022.ieee-pimrc.org/), 2022.
++ Session Chair, [IEEE/CIC 13th International Conference on Communications in China, 2024.](https://iccc2024.ieee-iccc.org/)
++ Session Chair, [IEEE 99th Vehicular Technology Conference - Spring, 2024.](https://events.vtsociety.org/vtc2024-spring/)
++ Technical Program Committee, [International Conference on Artificial Intelligence of Things and Systems (AIoTSys), 2024.](https://crowdos.cn/AIoTSys/2024/)
++ Technical Program Committee, [International Conference on Science of Cyber Security (SciSec), 2024.](https://scisec.org/index.html)
++ Technical Program Committee, [IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop, 2022.](http://pimrc2022.ieee-pimrc.org/)
   
 ### Journal Reviewer
 + IEEE Transactions on Information Forensics and Security.
