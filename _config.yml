@@ -12,7 +12,7 @@ title                    : "Chang Liu"
 title_separator          : "-"
 name                     : &name "Chang Liu"
 description              : &description ""
-url                      : https://chang-ntu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chang-ntu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chang-ntu/chang-ntu.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "Singapore"
   # employer         : "Red Brick University"
-  url              : "https://chang-ntu.github.io/"
+  url              : "https://chang-ntu.github.io"
   email            : "liuc0063@e.ntu.edu.sg" 
 
   # Academic websites
