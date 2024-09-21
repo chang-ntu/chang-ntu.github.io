@@ -41,6 +41,8 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 
 &nbsp;
 
+-----
+
 # Publications 
 
 
@@ -64,22 +66,23 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 + Liangxin Qian, **Chang Liu**, and Jun Zhao. User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications. In IEEE Transactions on Wireless Communications (***TWC***), 2024.
 
 + Xinyu Zhou, **Chang Liu**, and Jun Zhao. Resource Allocation of Federated Learning for the Metaverse with Mobile Augmented Reality. In IEEE Transactions on Wireless Communications (***TWC***), 2023.
-
+-----
 # Selected Awards
 + IEEE INFOCOM 2024 Student Travel Grant, 2024
 + ACM/IEEE SEC 2022 Student Travel Grant, 2022
 + IEEE/ACM BDCAT Best Paper Award, 2022
 + Third-prize in Undergraduate Electronics Design Contest of Sichuan Province, 2018
 + Outstanding Student Scholarship of UESTC, 2017 & 2018
-
+-----
 # Teaching
 ### Teaching Assistant @ NTU
 + CE3005 Computer Networks, Fall 2022, Spring 2021
 + CZ3006 Computer Networks, Spring 2022
 + CE3005 Net Centric Computing, Spring 2022
+  
 ### Residential Mentor @ NTU
 + CANdroid (Introduction to Android Development), Fall 2023, 2022, 2021, Spring 2022
-
+-----
 # Professional Service
 ### Organizing/Technical Committee
 + Session Chair, IEEE/CIC 13th International Conference on Communications in China, 2024.
