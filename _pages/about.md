@@ -50,23 +50,17 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 
 + **Chang Liu**, Terence Jie Chua, and Jun Zhao. Optimization for the Metaverse over Mobile Edge Computing with Play to Earn. In 2024 IEEE International Conference on Computer Communications (***INFOCOM***), 2024.
 + **Chang Liu** and Jun Zhao. Resource Allocation for Stable LLM Training in Mobile Edge Computing. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (***MobiHoc***), 2024.
-
 + **Chang Liu**, Terence Jie Chua, and Jun Zhao. Time Minimization in Hierarchical Federated Learning. In IEEE/ACM 7th Symposium on Edge Computing (***SEC***), 2022.
-
 + **Chang Liu** and Jun Zhao. Resource Allocation in Large Language Model Integrated 6G Vehicular Networks. In IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 2024.
-
 + Yitong Wang, **Chang Liu**, and Jun Zhao. Offloading and Quality Control for AI Generated Content Services in 6G Mobile Edge Computing Networks. In IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 2024.
-
 + Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer. In IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), 2022. **(Best Paper Award)**
-
 + **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao. Reliable Automatic Organ Segmenta- tion from CT Images Using Deep CNN. In IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2019.
 
 ### *Journal Articles*
-
 + Liangxin Qian, **Chang Liu**, and Jun Zhao. User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications. In IEEE Transactions on Wireless Communications (***TWC***), 2024.
-
 + Xinyu Zhou, **Chang Liu**, and Jun Zhao. Resource Allocation of Federated Learning for the Metaverse with Mobile Augmented Reality. In IEEE Transactions on Wireless Communications (***TWC***), 2023.
 -----
+
 # Selected Awards
 + IEEE INFOCOM 2024 Student Travel Grant, 2024
 + ACM/IEEE SEC 2022 Student Travel Grant, 2022
@@ -74,32 +68,30 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 + Third-prize in Undergraduate Electronics Design Contest of Sichuan Province, 2018
 + Outstanding Student Scholarship of UESTC, 2017 & 2018
 -----
+
 # Teaching
 ### Teaching Assistant @ NTU
 + CE3005 Computer Networks, Fall 2022, Spring 2021
 + CZ3006 Computer Networks, Spring 2022
 + CE3005 Net Centric Computing, Spring 2022
-  
 ### Residential Mentor @ NTU
 + CANdroid (Introduction to Android Development), Fall 2023, 2022, 2021, Spring 2022
 -----
+
 # Professional Service
 ### Organizing/Technical Committee
-+ Session Chair, IEEE/CIC 13th International Conference on Communications in China, 2024.
-+ Session Chair, IEEE 99th Vehicular Technology Conference - Spring, 2024.
-+ Track Chair, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), workshop on Metaverse, 2022.
-+ Technical Program Committee, IEEE 32nd Annual International Symposium on Personal, Indoor and
-Mobile Radio Communications (PIMRC), 2022.
-+ Technical Program Committee, IEEE International Conference on Communications, Control, and
-Computing Technologies for Smart Grids (SmartGridComm), 2022.
-+ Technical Program Committee, International Conference on Science of Cyber Security (SciSec), 2024.
-+ Technical Program Committee, IEEE International Conference on Smart City and Informatization
-(iSCI), 2022.
++ Session Chair, [IEEE/CIC 13th International Conference on Communications in China](https://iccc2024.ieee-iccc.org/), 2024.
++ Session Chair, [IEEE 99th Vehicular Technology Conference - Spring](https://events.vtsociety.org/vtc2024-spring/), 2024.
++ Technical Program Committee, [International Conference on Artificial Intelligence of Things and Systems (AIoTSys)](https://crowdos.cn/AIoTSys/2024/), 2024.
++ Technical Program Committee, [International Conference on Science of Cyber Security (SciSec)](https://scisec.org/index.html), 2024.
++ Technical Program Committee, [IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop](http://pimrc2022.ieee-pimrc.org/), 2022.
+  
 ### Journal Reviewer
 + IEEE Transactions on Information Forensics and Security.
 + IEEE Transactions on Cognitive Communications and Networking. – IEEE Systems Journal.
 + IEEE Wireless Communications Letters.
 + Future Generation Computer Systems, Elsevier.
+
 ### Conference Reviewer
 + IEEE International Conference on Computer Communications (INFOCOM).
 + IEEE International Conference on Distributed Computing Systems (ICDCS).
