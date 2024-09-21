@@ -15,7 +15,7 @@ Email: liuc0063 \[at\]e[dot]ntu[dot]edu[dot]sg
 # Education 
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 70px; height: 50px; margin-right: 10px;">
+    <div style="width: 90px; height: 70px; margin-right: 10px;">
         <img src="NTU_Logo.png" alt="Nanyang Technological University Logo" style="width: 100%; height: 100%; object-fit: contain;" />
     </div>
     <div>
@@ -29,7 +29,7 @@ Email: liuc0063 \[at\]e[dot]ntu[dot]edu[dot]sg
 
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 70px; height: 50px; margin-right: 10px;">
+    <div style="width: 90px; height: 70px; margin-right: 10px;">
         <img src="UESTC_Logo.png" alt="UESTC Logo" style="width: 100%; height: 100%; object-fit: contain;" />
     </div>
     <div>
