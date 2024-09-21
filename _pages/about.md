@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/). My research focuses on interdisciplinary areas of AI, computer networks and edge computing. I obtained my Bachelor’s degree from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China in 2020.
+I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. My research focuses on interdisciplinary areas of AI, computer networks and edge computing. I obtained my Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China in 2020.
 
 **Email**: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 
@@ -93,7 +93,8 @@ I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/
   
 ### Journal Reviewer
 + IEEE Transactions on Information Forensics and Security.
-+ IEEE Transactions on Cognitive Communications and Networking. – IEEE Systems Journal.
++ IEEE Transactions on Cognitive Communications and Networking.
++ IEEE Systems Journal.
 + IEEE Wireless Communications Letters.
 + Future Generation Computer Systems, Elsevier.
 
