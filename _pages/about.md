@@ -20,7 +20,7 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
     </div>
     <div>
         <b>Nanyang Technological University</b> <br>
-        Aug 2020 - Present  <br>
+        Aug. 2020 - Present  <br>
         Ph.D. student at College of Computing and Data Science (CCDS)
     </div>
 </div>
@@ -34,7 +34,7 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
     </div>
     <div>
         <b>University of Electronic Science and Technology of China</b> <br>
-        Sep 2016 - Jun 2020 <br>
+        Sep. 2016 - Jun. 2020 <br>
         B.E. in Software Engineering (Network Security Engineering)
     </div>
 </div>
