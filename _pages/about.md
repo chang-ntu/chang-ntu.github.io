@@ -29,7 +29,7 @@ Email: liuc0063\[at\]e[dot]ntu[dot]edu[dot]sg
 
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 12px;">
+    <div style="width: 150px; height: 120px; margin-right: 10px;">
         <img src="../images/UESTC_Logo.png" alt="UESTC Logo" style="width: 85%; height: 85%; object-fit: contain;" />
     </div>
     <div>
