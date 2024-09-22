@@ -22,8 +22,7 @@ I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/
     <div>
         <b>Nanyang Technological University</b> <br>
         Aug. 2020 - Present  <br>
-        Ph.D. student at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), also affiliated with [Energy Research Institute @ NTU (ERI@N)](https://www.ntu.edu.sg/erian), Graduate College
-    </div>
+        Ph.D. student at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), also affiliated with [(ERI@N)](https://www.ntu.edu.sg/erian)
 </div>
 
 ---
