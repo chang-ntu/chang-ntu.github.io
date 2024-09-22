@@ -22,8 +22,8 @@ I am a PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/
     <div>
         <b>Nanyang Technological University</b> <br>
         Aug. 2020 - Present  <br>
-        Ph.D. student at <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a><br>
-        Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a>
+        Ph.D. student at <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>
+<!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
     </div>
 </div>
 
