@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chang Liu"
+title                    : "Chang Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Chang Liu"
 description              : &description ""
@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "Singapore"
   # employer         : "Red Brick University"
-  url              : "https://chang-ntu.github.io"
+  uri              : # URL
   email            : "liuc0063@e.ntu.edu.sg" 
 
   # Academic websites
