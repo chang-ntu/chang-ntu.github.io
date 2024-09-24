@@ -1,6 +1,6 @@
 ---
 permalink: /service/
-# title: "Professional Service"
+title: "Professional Service"
 author_profile: true
 share: false
 ---
