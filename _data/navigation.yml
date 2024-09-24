@@ -9,8 +9,8 @@
 =======
 main:
 >>>>>>> 83d19ea13ae86ce22b3ba09b7184399697f43cc5
-#   - title: "Publications"
-#     url: /publications/
+  - title: "Publications"
+    url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
