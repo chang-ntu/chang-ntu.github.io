@@ -1,10 +1,9 @@
 ---
 permalink: /teaching/
-# title: "Teaching"
+title: "Teaching"
 author_profile: true
 share: false
 ---
-
 ### Teaching Assistant @ NTU
 + CE3005 Computer Networks, in Fall 2022 & Spring 2021
 + CZ3006 Computer Networks, in Spring 2022
