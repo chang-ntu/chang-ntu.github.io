@@ -8,6 +8,7 @@ share: false
 ### *Conference Proceedings*
 
 <div style="font-size: 10px;" markdown="1"> 
+ 
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355) \
   **Chang Liu**, Terence Jie Chua, and Jun Zhao \
   _Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**), 2024_.
@@ -29,6 +30,7 @@ share: false
 + [Reliable Automatic Organ Segmentation from CT Images Using Deep CNN](https://doi.org/10.1109/QRS-C.2019.00075) \
   **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao \
   _Proceedings of the 19th IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2019._
+  
 </div>
 
 ### *Journal Articles*
