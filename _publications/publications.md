@@ -7,7 +7,9 @@ share: false
 
 ### *Conference Proceedings*
 
-+ **Chang Liu**, Terence Jie Chua, and Jun Zhao. [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://ieeexplore.ieee.org/document/10621355/). In 2024 IEEE International Conference on Computer Communications (***INFOCOM***), 2024.
++ [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://ieeexplore.ieee.org/document/10621355/) \
+  **Chang Liu**, Terence Jie Chua, and Jun Zhao \
+  _Proceedings of the 2024 IEEE International Conference on Computer Communications_ (***INFOCOM***), 2024.
 + **Chang Liu** and Jun Zhao. [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358). In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (***MobiHoc***), 2024.
 + **Chang Liu**, Terence Jie Chua, and Jun Zhao. [Time Minimization in Hierarchical Federated Learning](https://ieeexplore.ieee.org/document/9996746/). In IEEE/ACM 7th Symposium on Edge Computing (***SEC***), 2022.
 + **Chang Liu** and Jun Zhao. Resource Allocation in Large Language Model Integrated 6G Vehicular Networks. In IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 2024.
