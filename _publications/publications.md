@@ -16,7 +16,7 @@ share: false
   _Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**), 2024_.
 +  [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358) <br>
   **Chang Liu** and Jun Zhao <br>
-   _Proceedings of the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), 2024._
+   _Proceedings of the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**ACM MobiHoc**), 2024._
 +  [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015) <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao <br>
   _Proceedings of the 7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
