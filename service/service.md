@@ -21,10 +21,10 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
   
-+ IEEE Transactions on Information Forensics and Security
-+ IEEE Transactions on Cognitive Communications and Networking
++ IEEE Transactions on Information Forensics and Security (TIFS)
++ IEEE Transactions on Cognitive Communications and Networking (TCCN)
 + IEEE Systems Journal
-+ IEEE Wireless Communications Letters
++ IEEE Wireless Communications Letters (WCL)
 + Future Generation Computer Systems, Elsevier
 
 </div>
@@ -38,7 +38,7 @@ share: false
 + IEEE International Conference on Distributed Computing Systems (ICDCS)
 + IEEE International Conference on Sensing, Communication, and Networking (SECON)
 + IEEE/ACM International Symposium on Quality of Service (IWQoS)
-+ IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)
++ IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS)
 + International Federation for Information Processing (IFIP) Networking Conference
 
 </div>
