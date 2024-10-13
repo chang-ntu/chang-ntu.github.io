@@ -7,21 +7,6 @@ type: publications
 share: false
 ---
 
-### *Preprint*
-
-<div style="font-size: 16px;" markdown="1"> 
-
-+ Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems <br>
-  **Chang Liu** and Jun Zhao <br>
-
-+ Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning <br>
-  **Chang Liu**, Yitong Wang, Terence Jie Chua, Jun Zhao <br>
-
-+ [Mobile Edge Computing for the Metaverse](https://arxiv.org/pdf/2212.09229) <br>
-  **Chang Liu**, Yitong Wang, Jun Zhao <br>
-
-</div>
-
 ### *Conference Proceedings*
 
 <div style="font-size: 16px;" markdown="1"> 
@@ -61,4 +46,18 @@ share: false
   _IEEE Transactions on Wireless Communications (**TWC**), 2023._
   
 </div>
-  
+
+### *Preprint*
+
+<div style="font-size: 16px;" markdown="1"> 
+
++ Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems <br>
+  **Chang Liu** and Jun Zhao
+
++ Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning <br>
+  **Chang Liu**, Yitong Wang, Terence Jie Chua, Jun Zhao
+
++ [Mobile Edge Computing for the Metaverse](https://arxiv.org/pdf/2212.09229) <br>
+  **Chang Liu**, Yitong Wang, Jun Zhao
+
+</div>
