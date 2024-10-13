@@ -10,6 +10,21 @@ share: false
 ### *Conference Proceedings*
 
 <div style="font-size: 16px;" markdown="1"> 
+
++ Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems <br>
+  **Chang Liu** and Jun Zhao <br>
+
++ Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning <br>
+  **Chang Liu**, Yitong Wang, Terence Jie Chua, Jun Zhao <br>
+
++ [Mobile Edge Computing for the Metaverse](https://arxiv.org/pdf/2212.09229) <br>
+  **Chang Liu**, Yitong Wang, Jun Zhao <br>
+
+</div>
+
+### *Conference Proceedings*
+
+<div style="font-size: 16px;" markdown="1"> 
  
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355) <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao <br>
