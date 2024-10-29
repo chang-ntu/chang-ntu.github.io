@@ -11,9 +11,10 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
  
-+ [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355) <br>
++ Optimization for the Metaverse over Mobile Edge Computing with Play to Earn <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao <br>
-  _Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**), 2024_.
+  _Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**), 2024_. <br>
+  [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621355)
 +  [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358) <br>
   **Chang Liu** and Jun Zhao <br>
    _Proceedings of the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**ACM MobiHoc**), 2024._
