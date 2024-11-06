@@ -21,6 +21,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
   
++ IEEE Journal on Selected Areas in Communications (JSAC)
 + IEEE Transactions on Information Forensics and Security (TIFS)
 + IEEE Transactions on Cognitive Communications and Networking (TCCN)
 + IEEE Systems Journal
