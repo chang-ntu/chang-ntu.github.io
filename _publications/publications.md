@@ -51,11 +51,11 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-+ **Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems,** <br>
++ Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems, <br>
   **Chang Liu** and Jun Zhao.
-+ **Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning,** <br>
++ Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning, <br>
   **Chang Liu**, Yitong Wang, Terence Jie Chua, Jun Zhao.
-+ **Mobile Edge Computing for the Metaverse,** <br>
++ Mobile Edge Computing for the Metaverse, <br>
   **Chang Liu**, Yitong Wang, Jun Zhao. [[Preprint]](https://arxiv.org/pdf/2212.09229)
 
 </div>
