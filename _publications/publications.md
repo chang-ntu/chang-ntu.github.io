@@ -22,7 +22,7 @@ share: false
   In _7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
 + [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683673),<br>
   Chang Liu and Jun Zhao. <br>
-  In _99th IEEE Vehicular Technology Conference (**VTC2024-Spring**), 2024._ [[Paper]] 
+  In _99th IEEE Vehicular Technology Conference (**VTC2024-Spring**), 2024._
 + [Offloading and Quality Control for AI Generated Content Services in 6G Mobile Edge Computing Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683477), <br>
   Yitong Wang, Chang Liu, and Jun Zhao. <br>
   In _99th IEEE Vehicular Technology Conference (**VTC2024-Spring**), 2024._
