@@ -49,6 +49,7 @@ I am a final-year PhD student at [Nanyang Technological University](https://www.
 + IEEE INFOCOM 2024 Student Travel Grant, 2024
 + ACM/IEEE SEC 2022 Student Travel Grant, 2022
 + IEEE/ACM BDCAT Best Paper Award, 2022
++ NTU Full-Time PhD Scholarship, 2020
 + Third-prize in Undergraduate Electronics Design Contest of Sichuan Province, 2018
 + Outstanding Student Scholarship of UESTC, 2017 & 2018
   
