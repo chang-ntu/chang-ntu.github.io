@@ -7,7 +7,7 @@ type: publications
 share: false
 ---
 
-### *Conference Proceedings*
+; ### *Conference Proceedings*
 
 <div style="font-size: 16px;" markdown="1"> 
 
