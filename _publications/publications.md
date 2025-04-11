@@ -17,16 +17,16 @@ share: false
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
   In _**IEEE INFOCOM**, 2024._
-+ Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning, <br>
++ [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://chang-ntu.github.io/publications/), <br>
   **Chang Liu**, Jun Zhao, Yitong Wang. <br>
   In _**IEEE/ACM Transactions on Networking (TON),**_ (Major Revision).
-+ Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems, <br>
++ [Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems](https://chang-ntu.github.io/publications/), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**IEEE Transactions on Mobile Computing (TMC),**_ (Major Revision).
 +  [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
   In _7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
-+ Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing, <br>
++ [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://chang-ntu.github.io/publications/), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**IEEE Transactions on Vehicular Technology,**_ (Major Revision).
 + [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683673),<br>
