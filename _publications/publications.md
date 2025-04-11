@@ -43,7 +43,7 @@ share: false
   In _99th IEEE Vehicular Technology Conference (**VTC**), 2024._
 + [Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer](https://doi.org/10.1109/BDCAT56447.2022.00010), <br>
   Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. <br>
-  In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ **(Best Paper Award)**
+  In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ <font color="red">**(Best Paper Award)**</font>
 + [Reliable Automatic Organ Segmentation from CT Images Using Deep CNN](https://doi.org/10.1109/QRS-C.2019.00075), <br>
   **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao. <br>
   In _19th IEEE International Conference on Software Quality, Reliability and Security Companion (**QRS**), 2019._
