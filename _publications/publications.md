@@ -32,6 +32,9 @@ share: false
 + [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683673),<br>
   **Chang Liu** and Jun Zhao. <br>
   In _99th IEEE Vehicular Technology Conference (**VTC**), 2024._
++ [Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer](https://doi.org/10.1109/BDCAT56447.2022.00010), <br>
+  Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. <br>
+  In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ **<font color="red">(Best Paper Award)</font>**
 + [User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications](https://doi.org/10.1109/TWC.2024.3401184), <br>
   Liangxin Qian, **Chang Liu**, and Jun Zhao. <br>
   In _IEEE Transactions on Wireless Communications (**TWC**), 2024._
@@ -41,9 +44,6 @@ share: false
 + [Offloading and Quality Control for AI Generated Content Services in 6G Mobile Edge Computing Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683477), <br>
   Yitong Wang, **Chang Liu**, and Jun Zhao. <br>
   In _99th IEEE Vehicular Technology Conference (**VTC**), 2024._
-+ [Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer](https://doi.org/10.1109/BDCAT56447.2022.00010), <br>
-  Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. <br>
-  In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ **<font color="red">(Best Paper Award)</font>**
 + [Reliable Automatic Organ Segmentation from CT Images Using Deep CNN](https://doi.org/10.1109/QRS-C.2019.00075), <br>
   **Chang Liu**, Shaozhi Wu, Su Wu, Ziheng Wang and Kai Xiao. <br>
   In _19th IEEE International Conference on Software Quality, Reliability and Security Companion (**QRS**), 2019._
