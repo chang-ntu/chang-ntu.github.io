@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. My research focuses on interdisciplinary areas of **AI** and **communication networks**, with a specific emphasis on **mobile edge computing**. I received my Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China in 2020.
+I received the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2025. My research focuses on interdisciplinary areas of **AI** and **communication networks**, with a specific emphasis on **mobile edge computing**. Before that, I received a Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China, in 2020.
 
 **Email**: liuc0063@e.ntu.edu.sg
 
@@ -21,7 +21,7 @@ I am a final-year PhD student at [Nanyang Technological University](https://www.
     </div>
     <div>
         <b>Nanyang Technological University</b> <br>
-        Aug. 2020 - Present  <br>
+        Aug. 2020 - 2025  <br>
         Ph.D. student at <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>
 <!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
     </div>
