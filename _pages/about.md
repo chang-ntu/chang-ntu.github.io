@@ -21,7 +21,7 @@ I received the Ph.D. degree from [Nanyang Technological University](https://www.
     </div>
     <div>
         <b>Nanyang Technological University</b> <br>
-        Aug. 2020 - 2025  <br>
+        Aug. 2020 - Jul. 2025  <br>
         Ph.D. at <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>
 <!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
     </div>
