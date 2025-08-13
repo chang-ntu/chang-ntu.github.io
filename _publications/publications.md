@@ -11,6 +11,9 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
++[Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://chang-ntu.github.io/publications/), <br>
+  **Chang Liu**, Jun Zhao, Yitong Wang. <br>
+  In _IEEE/ACM Transactions on Networking (**TON**), 2025._ 
 + [Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems](https://doi.org/10.1109/TMC.2025.3570376), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _IEEE Transactions on Mobile Computing (**TMC**),_ 2025.
@@ -23,9 +26,6 @@ share: false
 + [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**ACM MobiHoc**, 2024._
-+ [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://chang-ntu.github.io/publications/), <br>
-  **Chang Liu**, Jun Zhao, Yitong Wang. <br>
-  In _IEEE/ACM Transactions on Networking (**TON**),_ (Major Revision).
 +  [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
   In _7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
