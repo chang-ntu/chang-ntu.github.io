@@ -11,13 +11,13 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-+ [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://chang-ntu.github.io/publications/), <br>
++ [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
   **Chang Liu**, Jun Zhao, Yitong Wang. <br>
   In _IEEE/ACM Transactions on Networking (**TON**), 2025._ 
 + [Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems](https://doi.org/10.1109/TMC.2025.3570376), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _IEEE Transactions on Mobile Computing (**TMC**),_ 2025.
-+ [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://chang-ntu.github.io/publications/), <br>
++ [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://doi.org/10.1109/TVT.2025.3600190), <br>
   **Chang Liu**, Jun Zhao and Terence Jie Chua. <br>
   In _IEEE Transactions on Vehicular Technology (**TVT**), 2025_.
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355), <br>
