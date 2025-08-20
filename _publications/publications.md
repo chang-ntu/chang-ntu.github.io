@@ -29,15 +29,15 @@ share: false
 + [Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer](https://doi.org/10.1109/BDCAT56447.2022.00010), <br>
   Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. <br>
   In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ **<font color="red">(Best Paper Award)</font>**
-+ [Legal Retrieval Augmented Generation with Structured Retrieval and Iterative Refinement](https://chang-ntu.github.io/publications/), <br>
-  Chaitanya Dhananjay Jadhav, **Chang Liu** and Jun Zhao. <br>
-  In _22nd International Conference on Privacy, Security, and Trust (PST), 2025._
 + [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
   In _7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
 + [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683673),<br>
   **Chang Liu** and Jun Zhao. <br>
   In _99th IEEE Vehicular Technology Conference (**VTC**), 2024._
++ [Legal Retrieval Augmented Generation with Structured Retrieval and Iterative Refinement](https://chang-ntu.github.io/publications/), <br>
+  Chaitanya Dhananjay Jadhav, **Chang Liu** and Jun Zhao. <br>
+  In _22nd International Conference on Privacy, Security, and Trust (PST), 2025._
 + [User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications](https://doi.org/10.1109/TWC.2024.3401184), <br>
   Liangxin Qian, **Chang Liu**, and Jun Zhao. <br>
   In _IEEE Transactions on Wireless Communications (**TWC**), 2024._
