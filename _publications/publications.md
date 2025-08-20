@@ -26,7 +26,10 @@ share: false
 + [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**ACM MobiHoc**, 2024._
-+  [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015), <br>
++ [Legal Retrieval Augmented Generation with Structured Retrieval and Iterative Refinement](https://chang-ntu.github.io/publications/), <br>
+  Chaitanya Dhananjay Jadhav, **Chang Liu** and Jun Zhao. <br>
+  In _22nd International Conference on Privacy, Security, and Trust (PST), 2025._
++ [Time Minimization in Hierarchical Federated Learning](https://doi.org/10.1109/SEC54971.2022.00015), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
   In _7th IEEE/ACM Symposium on Edge Computing (**SEC**), 2022._
 + [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](https://doi.org/10.1109/VTC2024-Spring62846.2024.10683673),<br>
