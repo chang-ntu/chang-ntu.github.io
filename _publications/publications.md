@@ -11,6 +11,20 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
+<dl>
+  <dt><strong>[IoTJ]</strong></dt>
+  <dd>
+    End-to-End Multitarget Flexible Job Shop Scheduling With Deep Reinforcement Learning  
+    In <em>IEEE Internet of Things Journal</em>, 2025.
+  </dd>
+
+  <dt><strong>[TMC]</strong></dt>
+  <dd>
+    Mighty: Towards Long-Range and High-Throughput Backscatter for Drones  
+    In <em>IEEE Transactions on Mobile Computing</em>, Mar 2025.
+  </dd>
+</dl>
+
 +  [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
   **Chang Liu**, Jun Zhao, Yitong Wang. <br>
   In _IEEE/ACM Transactions on Networking (**TON**), 2025._ 
