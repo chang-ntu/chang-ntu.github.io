@@ -11,10 +11,10 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-+  [**IoN**] [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
++  [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
   **Chang Liu**, Jun Zhao, Yitong Wang. <br>
   In _IEEE/ACM Transactions on Networking (**TON**), 2025._ 
-+  [**TMC**] [Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems](https://doi.org/10.1109/TMC.2025.3570376), <br>
++  [Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems](https://doi.org/10.1109/TMC.2025.3570376), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _IEEE Transactions on Mobile Computing (**TMC**),_ 2025.
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355), <br>
