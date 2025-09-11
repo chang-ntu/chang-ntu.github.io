@@ -20,10 +20,10 @@ share: false
   In _IEEE Transactions on Mobile Computing (**TMC**),_ 2025.
 + [Optimization for the Metaverse over Mobile Edge Computing with Play to Earn](https://doi.org/10.1109/INFOCOM52122.2024.10621355), <br>
   **Chang Liu**, Terence Jie Chua, and Jun Zhao. <br>
-  In _IEEE International Conference on Computer Communications (**INFOCOM**), 2024._
+  In _IEEE **INFOCOM** - IEEE Conference on Computer Communications, 2024._
 + [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358), <br>
   **Chang Liu** and Jun Zhao. <br>
-  In _International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**ACM MobiHoc**), 2024._
+  In _**ACM MobiHoc**: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2024._
 + [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://doi.org/10.1109/TVT.2025.3600190), <br>
   **Chang Liu**, Jun Zhao and Terence Jie Chua. <br>
   In _IEEE Transactions on Vehicular Technology (**TVT**), 2025_.
