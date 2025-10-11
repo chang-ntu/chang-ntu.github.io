@@ -29,7 +29,7 @@ share: false
   In _IEEE Transactions on Vehicular Technology (**TVT**), 2025_.
 + [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://chang-ntu.github.io/publications/), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, **Chang Liu**, Qipeng Xie, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
-  In _In Neural Information Processing Systems (**NeurIPS**), 2025_.
+  In _Neural Information Processing Systems (**NeurIPS**), 2025_.
 + [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://arxiv.org/pdf/2507.14980), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, **Chang Liu**, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _International Conference on Parallel Processing (**ICPP**), 2025_.
