@@ -27,12 +27,12 @@ share: false
 + [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://doi.org/10.1109/TVT.2025.3600190), <br>
   **Chang Liu**, Jun Zhao and Terence Jie Chua. <br>
   In _IEEE Transactions on Vehicular Technology (**TVT**), 2025_.
-+ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://chang-ntu.github.io/publications/), <br>
+<!--+ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://chang-ntu.github.io/publications/), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, **Chang Liu**, Qipeng Xie, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _Neural Information Processing Systems (**NeurIPS**), 2025_.
 + [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://arxiv.org/pdf/2507.14980), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, **Chang Liu**, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
-  In _International Conference on Parallel Processing (**ICPP**), 2025_.
+  In _International Conference on Parallel Processing (**ICPP**), 2025_.-->
 + [Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer](https://doi.org/10.1109/BDCAT56447.2022.00010), <br>
   Terence Jie Chua, Wenhan Yu, **Chang Liu**, and Jun Zhao. <br>
   In _IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (**BDCAT**), 2022._ **<font color="red">(Best Paper Award)</font>**
