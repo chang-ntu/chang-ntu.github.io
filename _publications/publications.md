@@ -11,12 +11,9 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-<!--+ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://chang-ntu.github.io/publications/), <br>
++ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://chang-ntu.github.io/publications/), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, **Chang Liu**, Qipeng Xie, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _Neural Information Processing Systems (**NeurIPS**), 2025_.
-+ [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://arxiv.org/pdf/2507.14980), <br>
-  Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, **Chang Liu**, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
-  In _International Conference on Parallel Processing (**ICPP**), 2025_.-->  
 +  [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
   **Chang Liu**, Jun Zhao, Yitong Wang. <br>
   In _IEEE/ACM Transactions on Networking (**ToN**), 2025._ 
@@ -29,6 +26,9 @@ share: false
 + [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**MobiHoc**: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2024._
++ [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://arxiv.org/pdf/2507.14980), <br>
+  Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, **Chang Liu**, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
+  In _International Conference on Parallel Processing (**ICPP**), 2025_.
 + [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://doi.org/10.1109/TVT.2025.3600190), <br>
   **Chang Liu**, Jun Zhao and Terence Jie Chua. <br>
   In _IEEE Transactions on Vehicular Technology (**TVT**), 2025_.
