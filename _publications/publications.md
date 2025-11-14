@@ -11,7 +11,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-+ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://neurips.cc/virtual/2025/poster/119743), <br>
++ [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://openreview.net/forum?id=75JiIa0fU1), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, **Chang Liu**, Qipeng Xie, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _Neural Information Processing Systems (**NeurIPS**), 2025_.
 +  [Computation and Communication Resource Optimization for Efficient Hierarchical Federated Learning](https://doi.org/10.1109/TON.2025.3600163), <br>
