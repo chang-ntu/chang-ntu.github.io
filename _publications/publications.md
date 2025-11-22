@@ -66,12 +66,3 @@ share: false
 
   
 </div>
-
-### *Preprint*
-
-<div style="font-size: 16px;" markdown="1"> 
-
-+ Mobile Edge Computing for the Metaverse, <br>
-  **Chang Liu**, Yitong Wang, Jun Zhao. [[Preprint]](https://arxiv.org/pdf/2212.09229)
-
-</div>
