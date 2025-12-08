@@ -11,6 +11,9 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
++ [Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing](https://chang-ntu.github.io/publications/), <br>
+  **Chang Liu**, Liangxin Qian, Jadhav Chaitanya Dhananjay, Jun Zhao. <br>
+   In _**IEEE INFOCOM** - IEEE Conference on Computer Communications, 2026._
 + [FedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization](https://openreview.net/forum?id=75JiIa0fU1), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, **Chang Liu**, Qipeng Xie, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _Neural Information Processing Systems (**NeurIPS**), 2025_.
