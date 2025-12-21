@@ -29,7 +29,7 @@ share: false
 + [Resource Allocation for Stable LLM Training in Mobile Edge Computing](https://doi.org/10.1145/3641512.3686358), <br>
   **Chang Liu** and Jun Zhao. <br>
   In _**MobiHoc**: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2024._
-+ [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://arxiv.org/pdf/2507.14980), <br>
++ [FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios](https://doi.org/10.1145/3754598.3754657), <br>
   Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, **Chang Liu**, Wenfeng Du, Lu Wang, Kaishun Wu. <br>
   In _International Conference on Parallel Processing (**ICPP**), 2025_.
 + [Enhancing User Experience and Energy Efficiency in Metaverse Play to Earn Games via Mobile Edge Computing](https://doi.org/10.1109/TVT.2025.3600190), <br>
