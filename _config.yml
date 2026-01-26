@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Chang Liu (刘畅)"
   # pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
-  location         : "Singapore"
-  employer         : "Zhejiang University"
+  bio              : "Assistant Professor /n Zhejiang University"
+  location         : "Ningbo, Zhejiang, China"
+  # employer         : "Zhejiang University"
   uri              : # URL
   email            : "liuc0063@e.ntu.edu.sg" 
 
