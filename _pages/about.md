@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently an Assistant Professor at School of Software Technology, Zhejiang University. I received the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2025. Before that, I received a Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China, in 2020. My research focuses on interdisciplinary areas of **AI** and **communication networks**, with a specific emphasis on **mobile edge computing**.
+I am currently an Assistant Professor at [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/). I received the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2025. Before that, I received a Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China, in 2020. My research focuses on interdisciplinary areas of **AI** and **communication networks**, with a specific emphasis on **mobile edge computing**.
 
 **Email**: liuc0063@e.ntu.edu.sg
 
