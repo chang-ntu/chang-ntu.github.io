@@ -43,6 +43,7 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
     </div>
 </div>
 
+<hr>
 
 # Education 
 
