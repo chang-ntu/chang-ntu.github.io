@@ -45,6 +45,8 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 
 <hr>
 
+
+<!--
 # Education 
 
 <div style="display: flex; align-items: center;">
@@ -55,7 +57,6 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
         <b>Nanyang Technological University</b> <br>
         Aug. 2020 - Jul. 2025  <br>
         Ph.D. in Computer Science & Engineering
-<!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
     </div>
 </div>
 
@@ -72,6 +73,7 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
         B.E. in Software Engineering (Network Security Engineering)
     </div>
 </div>
+-->
 
 &nbsp;
 
