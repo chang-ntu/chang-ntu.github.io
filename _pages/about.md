@@ -18,7 +18,7 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 
 <div style="display: flex; align-items: center;">
     <div style="width: 150px; height: 120px; margin-right: 10px;">
-        <img src="../images/ZJU_Logo.png" alt="ZJU Logo" style="width: 100%; height: 100%; object-fit: contain;" />
+        <img src="../images/ZJU_logo.png" alt="ZJU Logo" style="width: 100%; height: 100%; object-fit: contain;" />
     </div>
     <div>
         <b>Zhejiang University</b> <br>
