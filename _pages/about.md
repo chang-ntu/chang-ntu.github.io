@@ -14,6 +14,36 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 
 <hr>
 
+# Work Experience
+
+<div style="display: flex; align-items: center;">
+    <div style="width: 150px; height: 120px; margin-right: 10px;">
+        <img src="../images/ZJU_Logo.png" alt="ZJU Logo" style="width: 100%; height: 100%; object-fit: contain;" />
+    </div>
+    <div>
+        <b>Zhejiang University</b> <br>
+        Jan. 2026 - Now  <br>
+        Assistant Professor, School of Software Technology
+<!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
+    </div>
+</div>
+
+---
+
+
+<div style="display: flex; align-items: center;">
+    <div style="width: 150px; height: 120px; margin-right: 10px;">
+        <img src="../images/NTU_Logo.png" alt="NTU Logo" style="width: 100%; height: 100%; object-fit: contain;" />
+    </div>
+    <div>
+        <b>Nanyang Technological University</b> <br>
+        Nov. 2024 - Jan. 2026  <br>
+        Research Fellow, College of Computing and Data Science
+<!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
+    </div>
+</div>
+
+
 # Education 
 
 <div style="display: flex; align-items: center;">
