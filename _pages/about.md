@@ -21,7 +21,7 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
         <img src="../images/ZJU_logo.png" alt="ZJU Logo" style="width: 85%; height: 100%; object-fit: contain;" />
     </div>
     <div>
-        <b>Zhejiang University</b> <br>
+        <b>Zhejiang University（浙江大学）</b> <br>
         Jan. 2026 - Now  <br>
         Assistant Professor, School of Software Technology
 <!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
