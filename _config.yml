@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Chang Liu (刘畅)"
   # pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor<br>Zhejiang University"
+  bio              : "Assistant Professor<br>Zhejiang University<br><a href='https://person.zju.edu.cn/changliu' style='text-decoration: none; color: inherit;'>刘畅-浙江大学个人主页</a>"
   # location         : "Ningbo, Zhejiang, China"
-  employer         :"<a href='https://person.zju.edu.cn/changliu' style='color: inherit; text-decoration: none;'>刘畅-浙江大学个人主页</a>"
+  # employer         :"<a href='https://person.zju.edu.cn/changliu' style='color: inherit; text-decoration: none;'>刘畅-浙江大学个人主页</a>"
   #employer         : "刘畅-浙江大学个人主页 https://person.zju.edu.cn/changliu"
   uri              : # URL
   email            : "liuc0063@e.ntu.edu.sg" 
