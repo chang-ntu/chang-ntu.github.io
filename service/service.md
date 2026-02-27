@@ -11,7 +11,7 @@ share: false
 
 + Technical Program Committee, IEEE International Conference on Distributed Computing Systems (ICDCS), 2026.
 + Session Chair, IEEE/CIC 13th International Conference on Communications in China (ICCC), 2024.
-+ Session Chair, IEEE 99th Vehicular Technology Conference, 2024.
++ Session Chair, IEEE 99th Vehicular Technology Conference (VTC), 2024.
 + Technical Program Committee, International Conference on Artificial Intelligence of Things and Systems (AIoTSys), 2024.
 + Technical Program Committee, International Conference on Science of Cyber Security (SciSec), 2024.
 + Technical Program Committee, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop, 2022.
