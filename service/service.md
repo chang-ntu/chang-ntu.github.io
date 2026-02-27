@@ -14,7 +14,7 @@ share: false
 + Session Chair, IEEE 99th Vehicular Technology Conference - Spring, 2024.
 + Technical Program Committee, International Conference on Artificial Intelligence of Things and Systems (AIoTSys), 2024.
 + Technical Program Committee, International Conference on Science of Cyber Security (SciSec), 2024.
-+ Technical Program Committee, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2022.
++ Technical Program Committee, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop, 2022.
 
 </div>
   
