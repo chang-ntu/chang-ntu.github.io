@@ -25,11 +25,14 @@ author:
   name             : "Chang Liu (刘畅)"
   # pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Zhejiang University"
-  location         : "<a href='https://person.zju.edu.cn/changliu' style='text-decoration: none; color: inherit;'>刘畅-浙江大学个人主页</a>"
-  # employer         :"<a href='https://person.zju.edu.cn/changliu' style='color: inherit; text-decoration: none;'>刘畅-浙江大学个人主页</a>"
-  #employer         : "刘畅-浙江大学个人主页 https://person.zju.edu.cn/changliu"
+  # location         : "<a href='https://person.zju.edu.cn/changliu' style='text-decoration: none; color: inherit;'>刘畅-浙江大学个人主页</a>"
+  # employer         :
   uri              : # URL
   email            : "liuc0063@e.ntu.edu.sg" 
+  links:
+    - label: "University Homepage (浙江大学个人主页)"
+      icon: "fas fa-fw fa-university"
+      url: "https://person.zju.edu.cn/changliu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
