@@ -29,10 +29,10 @@ author:
   # employer         :
   uri              : "https://person.zju.edu.cn/changliu"
   email            : "chang.liu@zju.edu.cn" 
-  links:
-    - label: "University Homepage (浙江大学个人主页)"
-      icon: "fas fa-fw fa-university"
-      url: "https://person.zju.edu.cn/changliu"
+  # links:
+  #   - label: "University Homepage (浙江大学个人主页)"
+  #     icon: "fas fa-fw fa-university"
+  #     url: "https://person.zju.edu.cn/changliu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
