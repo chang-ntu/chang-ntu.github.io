@@ -27,8 +27,8 @@ author:
   bio              : "Assistant Professor<br>Zhejiang University"
   # location         : "<a href='https://person.zju.edu.cn/changliu' style='text-decoration: none; color: inherit;'>刘畅-浙江大学个人主页</a>"
   # employer         :
-  uri              : # URL
-  email            : "liuc0063@e.ntu.edu.sg" 
+  uri              : "https://person.zju.edu.cn/changliu"
+  email            : "chang.liu@zju.edu.cn" 
   links:
     - label: "University Homepage (浙江大学个人主页)"
       icon: "fas fa-fw fa-university"
