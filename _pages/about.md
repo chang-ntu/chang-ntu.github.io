@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently an Assistant Professor at [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/). I received the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2025. Before that, I received a Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China, in 2020. My research focuses on interdisciplinary areas of **AI** and **communication networks**, with a specific emphasis on **mobile edge computing**.
+I am currently an Assistant Professor at [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/). I received the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2025. Before that, I received a Bachelor’s degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China, in 2020. Currently, my research interests focus on **Agent OS** and the **Internet of Agents**, aiming to explore the integration of agents into operating systems and networks to enable autonomous collaboration, resource management, and optimized service delivery.
 
 **Email**: chang.liu@zju.edu.cn
 
