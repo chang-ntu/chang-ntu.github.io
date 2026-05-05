@@ -13,7 +13,7 @@ share: false
 "*" denotes corresponding author.
 
 + [Federated Bilevel Performative Prediction](https://chang-ntu.github.io/publications/), <br>
-  iangxin Qian, **Chang Liu***, Xuanyu Cao, Jun Zhao, Kwok-Yan Lam. <br>
+  Liangxin Qian, **Chang Liu***, Xuanyu Cao, Jun Zhao, Kwok-Yan Lam. <br>
    In _International Conference on Machine Learning (**ICML**), 2026._
 + [Joint Optimization of Secure and Energy Efficient Retrieval Augmented Generation for Mobile Edge Computing](https://chang-ntu.github.io/publications/), <br>
   **Chang Liu**, Liangxin Qian, Jadhav Chaitanya Dhananjay, Jun Zhao. <br>
