@@ -10,6 +10,7 @@ share: false
 <!--### *Conference Proceedings* -->
 
 <div style="font-size: 16px;" markdown="1"> 
+"*" denotes corresponding author.
 
 + [Federated Bilevel Performative Prediction](https://chang-ntu.github.io/publications/), <br>
   iangxin Qian, **Chang Liu***, Xuanyu Cao, Jun Zhao, Kwok-Yan Lam. <br>
