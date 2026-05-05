@@ -58,3 +58,18 @@
   font-size: 0.9em;
   line-height: 1.55;
 }
+
+.news-cfp {
+  color: red;
+  font-weight: bold;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.news-cfp:visited {
+  color: red;
+}
+
+.news-cfp:hover {
+  text-decoration: underline;
+}
