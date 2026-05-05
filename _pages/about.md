@@ -14,6 +14,10 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 
 <hr>
 
+# News
+
+[May 2026] We are organizing a workshop on Reliable and Efficient Multi-agent Services at ICWS 2026, to be held in Sydney, Australia, on July 13–18, 2026. Paper submissions are now invited! Please see the [Call for Papers](https://supperannoy.github.io/rems2026/) for details.
+
 # Work Experience
 
 <div style="display: flex; align-items: center;">
