@@ -40,3 +40,19 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* News section */
+.news-item {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 12px;
+  margin-bottom: 10px;
+}
+
+.news-date {
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.news-content {
+  min-width: 0;
+}
