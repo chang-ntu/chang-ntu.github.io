@@ -16,43 +16,8 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 
 # News
 
-<style>
-.news-item {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  column-gap: 12px;
-  margin-bottom: 10px;
-}
-
-.news-date {
-  white-space: nowrap;
-  font-weight: bold;
-}
-</style>
-
-<div class="news-item">
-  <div class="news-date">[May 2026]</div>
-  <div>
-    We are organizing a workshop on Reliable and Efficient Multi-agent Services at ICWS 2026,
-    to be held in Sydney, Australia, on July 13–18, 2026.
-    Paper submissions are now invited!
-    Please see the <a href="https://supperannoy.github.io/rems2026/">Call for Papers</a> for details.
-  </div>
-</div>
-
-# Work Experience
-
-<div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 10px;">
-        <img src="../images/ZJU_logo.png" alt="ZJU Logo" style="width: 85%; height: 100%; object-fit: contain;" />
-    </div>
-    <div>
-        <b>Zhejiang University（浙江大学）</b> <br>
-        Jan. 2026 - Now  <br>
-        Assistant Professor, School of Software Technology
-<!--         Also affiliated with <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a> -->
-    </div>
-</div>
+**[May&nbsp;2026]**&emsp;We are organizing a workshop on Reliable and Efficient Multi-agent Services at ICWS 2026, to be held in Sydney, Australia, on July 13–18, 2026.  
+Paper submissions are now invited! Please see the [Call for Papers](https://supperannoy.github.io/rems2026/) for details.
 
 ---
 
