@@ -9,6 +9,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
 
++ **Workshop Chair**, the 2nd International Workshop on Reliable and Efficient Multi-agent Services, in conjunction with IEEE ICWS 2026.
 + **Technical Program Committee**, IEEE International Conference on Distributed Computing Systems (ICDCS), 2026.
 + **Session Chair**, IEEE/CIC 13th International Conference on Communications in China (ICCC), 2024.
 + **Session Chair**, IEEE 99th Vehicular Technology Conference (VTC), 2024.
