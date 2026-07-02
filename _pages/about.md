@@ -88,6 +88,7 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 </div>
 -->
 
+<!--
 &nbsp;
 
 <hr>
@@ -99,5 +100,5 @@ I am currently an Assistant Professor at [School of Software Technology, Zhejian
 + NTU Full-Time PhD Scholarship, 2020
 + Third-prize in Undergraduate Electronics Design Contest of Sichuan Province, 2018
 + Outstanding Student Scholarship of UESTC, 2017 & 2018
-  
+-->
 <hr>
