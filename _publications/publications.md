@@ -11,7 +11,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
-+ [Federated Bilevel Performative Prediction](https://chang-ntu.github.io/publications/), <br>
++ [Federated Bilevel Performative Prediction](https://icml.cc/virtual/2026/poster/66050), <br>
   Liangxin Qian, **Chang Liu**, Xuanyu Cao, Jun Zhao, Kwok-Yan Lam. <br>
    In _International Conference on Machine Learning (**ICML**), 2026._
 + [Joint Optimization of Secure and Energy Efficient Retrieval Augmented Generation for Mobile Edge Computing](https://chang-ntu.github.io/publications/), <br>
